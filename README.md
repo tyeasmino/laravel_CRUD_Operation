@@ -8,9 +8,11 @@
 </p>
 
 ## Learned from Skill Jobs
-I have learned this crud operation from skill jobs online training
-My mentor was: Md. Farhan Sadiq
-Uploaded for: DNS Group and there feedback 
+I have learned this crud operation from skill jobs online training.
+
+My mentor was: **Md. Farhan Sadiq**.
+
+Uploaded for: **DNS Group** and there feedback 
 
 ## About Laravel
 
