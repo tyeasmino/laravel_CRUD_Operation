@@ -12,7 +12,9 @@ I have learned this crud operation from skill jobs online training.
 
 My mentor was: **Md. Farhan Sadiq**.
 
-Uploaded for: **DNS Group** and there feedback 
+Uploaded for: **DNS Group** and there feedback. 
+
+Note: Kindly check **master** branch for details. 
 
 ## About Laravel
 
